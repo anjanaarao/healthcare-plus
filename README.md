@@ -1,8 +1,8 @@
-# 🏥 HealthCare+
+# 🏥 PulsePoint
 
 ## Introduction
 
-**HealthCare+** is a fully responsive website designed to simulate a modern healthcare service platform. Built with **HTML**, **CSS**, and **JavaScript**, it aims to provide a clean, professional, and accessible user experience across all devices. Ideal for clinics, hospitals, or health tech startups, it offers a sleek front-end interface tailored for health-related needs.
+**PulsePoint** is a fully responsive website designed to simulate a modern healthcare service platform. Built with **HTML**, **CSS**, and **JavaScript**, it aims to provide a clean, professional, and accessible user experience across all devices. Ideal for clinics, hospitals, or health tech startups, it offers a sleek front-end interface tailored for health-related needs.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 🌟 Our STAR Feature – Accessibility-First UI
 
-Designed with semantic HTML to ensure assistive technology compatibility and keyboard navigation. HealthCare+ strives to be inclusive and user-friendly for all.
+Designed with semantic HTML to ensure assistive technology compatibility and keyboard navigation. PulsePoint strives to be inclusive and user-friendly for all.
 
 ---
 
