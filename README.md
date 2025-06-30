@@ -6,7 +6,6 @@ PulsePoint is a responsive and accessible healthcare website designed to offer a
 
 ---
 
-## Features
 ## 🔧 Features
 
 ### 1. Responsive Healthcare Interface
