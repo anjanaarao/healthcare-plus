@@ -54,17 +54,3 @@ Designed with semantic HTML to ensure assistive technology compatibility and key
 * **HTML5**
 * **CSS3**
 * **JavaScript (Vanilla)**
-
----
-
-## Installation
-
-To explore HealthCare+ locally:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/healthcare-website.git  
-   ```
-2. Navigate to the project directory
-3. Open `index.html` in your preferred browser
