@@ -2,42 +2,36 @@
 
 ## Introduction
 
-**PulsePoint** is a fully responsive website designed to simulate a modern healthcare service platform. Built with **HTML**, **CSS**, and **JavaScript**, it aims to provide a clean, professional, and accessible user experience across all devices. Ideal for clinics, hospitals, or health tech startups, it offers a sleek front-end interface tailored for health-related needs.
+PulsePoint is a responsive and accessible healthcare website designed to offer an intuitive experience for users seeking medical services. Built using **HTML**, **CSS**, and **JavaScript**, this project reflects clean UI/UX design principles, semantic coding practices, and modular file structure—making it ideal for showcasing frontend development skills.
 
 ---
 
 ## Features
+## 🔧 Features
 
-### 1. Responsive Design
+### 1. Responsive Healthcare Interface
+* Seamlessly adapts to mobiles, tablets, and desktops for accessible care
+* Built using Flexbox and Media Queries for optimal viewing
 
-* Seamlessly adapts to mobiles, tablets, and desktops
-* Built using Flexbox and Media Queries
+### 2. Smooth Navigation Experience
+* Sticky navigation bar for easy browsing between health services
+* Scroll-based highlighting and transitions for intuitive user flow
 
-### 2. Smooth Navigation
+### 3. Medical Services Showcase
+* Clearly displays specialist services (Cardiology, Pediatrics, General Medicine)
+* Includes professional icons and descriptions for easy comprehension
 
-* Sticky navigation bar for easy browsing
-* Scroll-based highlighting and transitions
-
-### 3. Interactive Appointment Form
-
-* JavaScript-powered form validation
-* Input hints and error handling for better user experience
-
-### 4. Service Showcase Section
-
-* Clearly lists offered healthcare services
-* Includes icons and descriptions for easy comprehension
-
-### 5. Testimonials and Contact Section
-
-* Highlight patient feedback to build credibility
-* Integrated contact section with basic form layout
+### 4. Community Trust & Contact Section
+* Patient testimonials highlighting free health camp experiences
+* Integrated contact section for health screening inquiries 
 
 ---
 
-## 🌟 Our STAR Feature – Accessibility-First UI
+## 🛠️ Tech Stack
 
-Designed with semantic HTML to ensure assistive technology compatibility and keyboard navigation. PulsePoint strives to be inclusive and user-friendly for all.
+- **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
+- **Design:** Custom CSS, Flexbox, Grid, Responsive Media Queries
+- **Version Control:** Git & GitHub
 
 ---
 
@@ -49,8 +43,11 @@ Designed with semantic HTML to ensure assistive technology compatibility and key
 
 ---
 
-## Technology Stack
+## 🚀 How to Run Locally
 
-* **HTML5**
-* **CSS3**
-* **JavaScript (Vanilla)**
+```bash
+# Clone the repository
+git clone https://github.com/anjanaarao/healthcare-plus.git
+cd healthcare-plus
+
+# Open index.html directly in your browser
