@@ -413,12 +413,6 @@ header .fa-bars{
 }
 /* footer section end */
 
-
-body{
-    height: 10000px;
-}
-
-
 /* media query */
 
 @media (max-width:768px){
